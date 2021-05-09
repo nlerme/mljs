@@ -4,4 +4,4 @@ MLJS is a Matlab/C++ software intended to jointly segment images using graph cut
 
 If you use this software for research purposes, you should cite the paper below in any resulting publication.
 
-> [1] N. Lermé, S. Le Hégarat-Mascle, F. Malgouyres, M. Lachaize, "[Multi-Layer Joint Segmentation Using MRF and Graph Cuts](https://hal.archives-ouvertes.fr/hal-02125044v3/document)", Journal of Mathematical Vision and Imaging, vol. 62, num. 6, pages 961-981, 2019.
+> [[1] N. Lermé, S. Le Hégarat-Mascle, F. Malgouyres, M. Lachaize, "Multi-Layer Joint Segmentation Using MRF and Graph Cuts", Journal of Mathematical Vision and Imaging, vol. 62, num. 6, pages 961-981, 2019.](https://hal.archives-ouvertes.fr/hal-02125044v3/document)
